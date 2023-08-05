@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'outfit';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Outfit-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'kenzomaru';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Kenzomaru.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'concertOne';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./ConcertOne-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'Patrick Hand';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./PatrickHand-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'teko';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Teko-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'righteous';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./Righteous-Regular.ttf') format('ttf');
+}
